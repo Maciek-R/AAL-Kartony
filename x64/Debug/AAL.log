@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Box.cpp
+d:\visualstudio2015\projekty\aal-project\aal\aal\box.cpp(50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visualstudio2015\projekty\aal-project\aal\aal\box.cpp(51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visualstudio2015\projekty\aal-project\aal\aal\box.cpp(52): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  AAL.vcxproj -> D:\VisualStudio2015\Projekty\AAL-Project\AAL\x64\Debug\AAL.exe
+  AAL.vcxproj -> D:\VisualStudio2015\Projekty\AAL-Project\AAL\x64\Debug\AAL.pdb (Partial PDB)
